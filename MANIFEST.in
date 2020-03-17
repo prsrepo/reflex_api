@@ -1,0 +1,2 @@
+recursive-include reflex-api/templates *
+recursive-include reflex-api/static *
