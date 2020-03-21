@@ -6,3 +6,5 @@ env/
 .vscode/
 *.egg-info/
 reflex_api/__pycache__
+build/
+dist/
