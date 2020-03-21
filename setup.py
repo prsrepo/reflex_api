@@ -16,7 +16,7 @@ def load_requirements(fname):
 
 setup(
     name='Reflex API',
-    version='0.1.0',
+    version='0.1',
     long_description=__doc__,
     packages=['reflex_api'],
     include_package_data=True,
